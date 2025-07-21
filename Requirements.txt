@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+google-generativeai
+slack_sdk
+python-dotenv
+numpy
+scikit-learn
