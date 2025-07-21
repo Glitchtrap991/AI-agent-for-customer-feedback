@@ -3,7 +3,7 @@
 This is an AI Agent that ingests customer feedback from CSV files, performs sentiment and keyword analysis, recommends product feature improvements, and sends insights via Slack using the Gemini API.
 
 ## 🚀 Demo
-🌐 Live App: [https://your-streamlit-app.streamlit.app](https://your-streamlit-app.streamlit.app](https://ai-agent-for-customer-feedback-ko7n9fk7pvz6pkcnaycw2r.streamlit.app))
+🌐 Live App: [Check out the demo](https://ai-agent-for-customer-feedback-ko7n9fk7pvz6pkcnaycw2r.streamlit.app)
 
 ## 📦 Features
 - Upload customer feedback CSV files
