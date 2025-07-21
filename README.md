@@ -58,14 +58,7 @@ id	feedback
 
 ---
 
-5. 🔐 Credentials (for judges)
-If credentials are needed to access the app:
-
-Gemini API Key: xxxx-xxx...
-
-Slack Webhook (test channel): https://hooks.slack.com/...
+5. 📹 Submission Video (3 mins)
+🎥 [Watch Demo Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/8pSmz6AvHS8))
 
 ---
-
-6. 📹 Submission Video (3 mins)
-🔗 YouTube Video Demo
